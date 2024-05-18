@@ -57,10 +57,6 @@ The average duration users spend on each step.
 
 The time spent by users in each step indicates that test users initially have a harder time starting but proceed through the process to completion. In contrast, control group users spend more time at the start but are less likely to finish the process.
 
-## Conclusions
-
-The new design shows promising results with a significantly higher completion rate and potentially improved efficiency in certain steps. However, it also has a slightly higher error rate, indicating areas for optimization. Further analysis and user feedback will be crucial for refining the new design.
-
 ## Hypothesis Testing
 
 To determine if the difference in completion rates is statistically significant:
@@ -70,4 +66,6 @@ To determine if the difference in completion rates is statistically significant:
 
 Using a significance level of 0.05, the p-value was calculated to be 4.41. Since the significance value is greater than the p-value, we reject the null hypothesis and conclude that the completion rates for the Test and Control groups are significantly different.
 
+## Conclusions
 
+The new design shows promising results with a significantly higher completion rate and potentially improved efficiency in certain steps. However, it also has a slightly higher error rate, indicating areas for optimization. Further analysis and user feedback will be crucial for refining the new design.
