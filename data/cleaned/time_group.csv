@@ -1,0 +1,11 @@
+Step,Average Time,Group
+confirm,104008.52,Test
+start,144390.88,Test
+step_1,1340.26,Test
+step_2,111.51,Test
+step_3,741.96,Test
+confirm,66576.62,Control
+start,196085.91,Control
+step_1,1840.77,Control
+step_2,39.5,Control
+step_3,581.97,Control
